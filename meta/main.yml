@@ -1,6 +1,6 @@
 galaxy_info:
   author: Jelle
-  description: Installs PHP on a system with reverse proxy
+  description: Installs PHP on a system.
   company: Windesheim
   role_name: php
   namespace: LemonJelle
